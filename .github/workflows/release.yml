@@ -8,4 +8,4 @@ on:
 
 jobs: 
   release: 
-    uses: ONLYOFFICE/onlyoffice.github.io/.github/workflows/release.yml@master
+    uses: UnivaultOffice/univaultoffice.github.io/.github/workflows/release.yml@master
